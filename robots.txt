@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xynora.page.dev/sitemap.xml
