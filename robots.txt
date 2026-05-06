@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://xynora.page.dev/sitemap.xml
+Sitemap: https://noventra.pages.dev/sitemap.xml
